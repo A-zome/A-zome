@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C++**
 
-- 📫 How to reach me **az.ome0998@gmail.com**
+- 📫 How to reach me **az.ome0988@gmail.com**
 
 - ⚡ Fun fact **I am working towards winning IOI gold.**
 
